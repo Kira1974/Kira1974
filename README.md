@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1  class="sans-serif "align="center">Hi, welcome to my <a href="https://kiradev74.vercel.app">profile</a> 👋</h1>
+<p align="center">
+  <img src="https://i.imgur.com/wQNMnYL.png" alt="Johan Estiven"  style="border-radius: 50%;" />
+</p>
 
-<!--
-**Kira1974/Kira1974** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## About Me 
+- 📱 Focused on building Android applications with **Kotlin/Java** and Android Studio  
+- ⚙️ Backend development (**Java, Spring Boot, APIs**)  
+- 🎯 Interested in scalable, modern, and user-friendly applications  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+- **Programming Languages:** Kotlin, Java, JavaScript  
+- **Mobile Development:** Android Studio, Jetpack Compose, XML UI, Material Design,Vue.js, Firebase Integration  
+- **Backend Development:** RESTful APIs, Java, Express, Spring Boot  
+- **Databases:** MySQL, PostgreSQL, Firebase Realtime Database, Firestore  
+- **Tools & Practices:** Git, GitHub, Postman, Agile/Scrum, Clean Architecture, MVVM, Unit Testing  
+ 
+
+---
+
+## 📌 My Projects
+-Are on the way 
+
+---
+⭐️ Thanks for visiting my profile!
