@@ -13,7 +13,7 @@
 
 - **Programming Languages:** Kotlin, Java, JavaScript  
 - **Mobile Development:** Android Studio, Jetpack Compose, XML UI, Material Design,Vue.js, Firebase Integration  
-- **Backend Development:** RESTful APIs, Java, Express, Spring Boot  
+- **Backend Development:** RESTful APIs, Java, Spring Boot  
 - **Databases:** MySQL, PostgreSQL, Firebase Realtime Database, Firestore  
 - **Tools & Practices:** Git, GitHub, Postman, Agile/Scrum, Clean Architecture, MVVM, Unit Testing  
  
